@@ -1,0 +1,4 @@
+$UBU_SERVER/ubuntu wily main restricted universe multiverse
+$UBU_SERVER/ubuntu wily-updates main restricted universe multiverse
+http://security.ubuntu.com/ubuntu wily-security main restricted universe multiverse
+http://archive.canonical.com/ubuntu wily partner
